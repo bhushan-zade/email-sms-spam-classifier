@@ -14,7 +14,7 @@ Visit The Web App: https://bhushan-zade-sms-spam-classifier-app-4pv856.streamlit
 
 Data Gathered From: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
-Data per-processing & Model Applied: https://www.kaggle.com/code/bhu1111/sms-spam-detection
+Data pre-processing & Model Applied: https://www.kaggle.com/code/bhu1111/sms-spam-detection
 
 Model Python-APP(app.py) File: https://github.com/bhushan-zade/SMS-SPAM-CLASSIFIER/blob/main/app.py
 
