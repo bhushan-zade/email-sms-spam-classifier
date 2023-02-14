@@ -1,4 +1,4 @@
-<img src=https://img.shields.io/badge/build%20with-python-yellow><img src="https://img.shields.io/badge/-streamlit-orange"> <img src="https://img.shields.io/badge/deployed%20in-Streamlit Cloudu-blue"> <img src="https://img.shields.io/badge/domain-Web%20Scraping-orange%20.svg" ><img src="https://img.shields.io/badge/Machine%20Learning-orange.svg"><img src="https://img.shields.io/badge/Natural%20Language%20Processing-orange%20.svg">
+<img src=https://img.shields.io/badge/build%20with-python-yellow><img src="https://img.shields.io/badge/-streamlit-orange"> <img src="https://img.shields.io/badge/deployed%20in-Streamlit Cloudu-blue"> <img src="https://img.shields.io/badge/domain-Machine%20learning-orange%20.svg" ><img src="https://img.shields.io/badge/Natural%20Language%20Processing-orange.svg">
 
 # **`Email/SMS Spam Classifier`**
 
