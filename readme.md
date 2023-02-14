@@ -8,7 +8,11 @@ Spamming is the use of messaging systems to send multiple unsolicited messages (
 
 Spam emails are something we’ve all experienced. Spam mail, often known as junk mail, is an email that is sent to a large number of people at once, sometimes with cryptic messages, scams, or, most dangerously, phishing information. The problem here is that the email needs to be classified as spam or ham based on the content of the mail.
 
+#
+
 **`Visit The Web App:`** https://bhushan-zade-sms-spam-classifier-app-4pv856.streamlit.app/
+
+<img align="" alt="coding" src= "https://user-images.githubusercontent.com/118050962/218839925-6f617d08-ffd4-4aff-af5a-91ab1b940fab.PNG">
 
 # **`Visit For Details:`**
 
